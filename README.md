@@ -12,7 +12,7 @@ Shopping online is currently the need of the hour. Because of this COVID, it's n
 
 
 🧑🏻‍🦰 TEAM MEMBERS
-Lakkalapudi Yeshwanth
+Lakkalapudi Yeshwanth(TEAM LEAD)
 Kuntrapakam Yeshwanth
 Konduru chandu
 Dinesh N
