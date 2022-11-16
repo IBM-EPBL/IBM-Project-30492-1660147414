@@ -1,7 +1,7 @@
 # IBM-Project-30492-1660147414
 Global Sales Data Analytics
 Category: Data Analytics
-TEAM ID : 
+TEAM ID : PNT2022TMID16071
 Skills Required:
 Exploratory Data Analysis,IBM Cloud
 
